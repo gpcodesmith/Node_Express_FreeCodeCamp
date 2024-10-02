@@ -1,5 +1,5 @@
 //on - listen for an event
-//enit - emit an event
+//emit - emit an event
 const EventEmitter = require('events');
 
 const customEmitter = new EventEmitter();
